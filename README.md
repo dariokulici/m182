@@ -5,4 +5,5 @@ In diesem Repository sind Aufgaben des Moduls dokumentiert.
 
 ### Übersicht
 - [Aufgabe Enumeration / Fingerprinting](Fingerprinting-Enumeration/auftrag.md)
+- [Aufgabe Honeypots](Honeypots/auftrag.md) 
 
