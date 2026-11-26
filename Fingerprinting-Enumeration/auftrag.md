@@ -116,7 +116,6 @@ Das Zielsystem für die weiteren Scans ist:
 
 `192.168.56.20`
 
-**Screenshot:** Netzwerkscan mit Nmap.
 
 ---
 
@@ -164,7 +163,7 @@ Bereits dieser Scan zeigt eine sehr grosse Angriffsfläche, da zahlreiche Netzwe
 
 Ein offener Port bedeutet allerdings noch nicht automatisch, dass eine Schwachstelle vorhanden ist. Deshalb müssen im nächsten Schritt die jeweiligen Dienste genauer identifiziert werden.
 
-**Screenshot:** TCP-Portscan mit Nmap.
+
 
 ---
 
@@ -451,11 +450,6 @@ Damit konnte bestätigt werden, dass über den verwundbaren Netzwerkdienst Zugri
 
 Die Sitzung wurde danach beendet und nicht für weitere Aktivitäten im System verwendet.
 
-**Screenshot:** Metasploit-Suche nach dem passenden Modul.
-
-**Screenshot:** Konfiguration des Zielhosts.
-
-**Screenshot:** Erfolgreiche Sitzung mit der Ausgabe von `id` und `hostname`.
 
 ---
 
